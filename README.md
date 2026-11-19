@@ -7,6 +7,6 @@
 Se trata de la lista de un suario. Al parecer una lista completa y actualizada solo se obtiene a través de la API de GitHub.
  
 3. **[Ver tutorial en YouTube](https://www.youtube.com/watch?v=oxaH9CFpeEE&t=908s)**
-4. [![Miniatura del vídeo](http://img.youtube.com/vi/oxaH9CFpeEE/0.jpg)](https://www.youtube.com/watch?v=oxaH9CFpeEE&t=908s)
+            [![Miniatura del vídeo](http://img.youtube.com/vi/oxaH9CFpeEE/0.jpg)](https://www.youtube.com/watch?v=oxaH9CFpeEE&t=908s)
 
 
