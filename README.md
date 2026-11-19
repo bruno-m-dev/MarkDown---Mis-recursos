@@ -1,5 +1,5 @@
 # APRENDER LENGUAJE MARK DOWN - RECURSOS 
-![markdown logo](markdown.png)
+![markdown logo](imagenes/markdown.png)
 
 ## ALGUNOS LINKS
 
